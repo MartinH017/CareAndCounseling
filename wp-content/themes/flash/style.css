@@ -1846,7 +1846,7 @@ Slider
 
 .tg-slider-widget .swiper-button-next::before {
 	content: "\f105";
-	font-family: 'Montserrat', sans-serif;
+	font-family: fontawesome;
 	font-size: 30px;
 	color: #313b48;
 	background: #fff;
