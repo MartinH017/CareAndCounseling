@@ -1041,6 +1041,7 @@ Header
 .header-top .contact-info li {
 	float: left;
 	font-size: 12px;
+	font-family: 'Montserrat', sans-serif;
 	color: #384554;
 	margin-right: 30px;
 	padding: 5px 0;
@@ -1081,7 +1082,7 @@ Header
 	background-color: #fff;
 	border-radius: 100%;
 	font-size: 12px;
-	font-family: fontawesome;
+	font-family: 'Montserrat', sans-serif;
 	text-align: center;
 	display: block;
 	line-height: 30px;
@@ -1093,7 +1094,7 @@ Header
 .transparent .social-menu li a {
 	background-color: rgba(0, 0, 0, 0);
 	border: none;
-	color: #fff;
+	color: black;
 	height: auto;
 	width: auto;
 }
@@ -1845,7 +1846,7 @@ Slider
 
 .tg-slider-widget .swiper-button-next::before {
 	content: "\f105";
-	font-family: fontawesome;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 30px;
 	color: #313b48;
 	background: #fff;
@@ -3305,7 +3306,7 @@ Footer
 --------------------------------------------------------------*/
 
 #top-footer {
-	background-color: #313b48;
+	background-color: #e4e4e4;
 	padding: 80px 0 30px;
 }
 
@@ -3397,11 +3398,12 @@ Footer
 
 #bottom-footer {
 	padding: 20px 0;
-	background-color: #28313d;
+	background-color: #e4e4e4;
 }
 
 #bottom-footer .copyright {
-	float: left;
+	float: none;
+	text-align: center;
 }
 
 #bottom-footer .copyright-text {
