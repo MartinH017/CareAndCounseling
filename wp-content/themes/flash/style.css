@@ -1082,7 +1082,7 @@ Header
 	background-color: #fff;
 	border-radius: 100%;
 	font-size: 12px;
-	font-family: 'Montserrat', sans-serif;
+	font-family: fontawesome;
 	text-align: center;
 	display: block;
 	line-height: 30px;
@@ -1925,7 +1925,7 @@ Slider
 
 .tg-slider-widget .caption-title {
 	color: #313b48;
-	font-size: 48px;
+	font-size: 30px;
 	font-weight: 800;
 	line-height: 1.5;
 	text-transform: uppercase;
@@ -1946,10 +1946,10 @@ Slider
 
 .tg-slider-widget .btn-wrapper {
 	display: inline-block;
+	background-color: #0d98ba;
 }
 
 .tg-slider-widget .btn-wrapper a {
-	border: 3px solid #313b48;
 	display: inline-block;
 	font-size: 20px;
 	padding: 7px 26px;
@@ -1959,9 +1959,9 @@ Slider
 }
 
 .tg-slider-widget .btn-wrapper a:hover {
-	background: #313b48;
+	background: #f25d3a;
 	color: #fff;
-	border-color: #313b48;
+	border-color: #f25d3a;
 }
 .tg-slider-widget.slider-light .btn-wrapper a:hover {
 	text-shadow: none;
@@ -1978,7 +1978,9 @@ Slider
 }
 
 .tg-slider-widget.slider-content-left .caption-title {
-	width: 60%;
+	background-color: #f9ac3f;
+	padding: 30px;
+	width: 50%;
 }
 
 .tg-slider-widget.slider-content-left .caption-desc {
@@ -2012,7 +2014,7 @@ Slider
 }
 
 .tg-slider-widget.slider-dark .slider-image .overlay {
-	background-color: rgba(0, 0, 0, 0.5);
+	background-color: rgba(242, 93, 58, 0.25);
 }
 
 .tg-slider-widget.slider-dark .caption-title {
