@@ -3374,7 +3374,7 @@ Footer
 
 #top-footer .widget ul li a {
 	font-size: 14px;
-	color: #fff;
+	color: #000000;
 }
 
 #top-footer .widget ul li a:hover {
@@ -3405,16 +3405,16 @@ Footer
 }
 
 #bottom-footer .copyright-text {
-	color: #fff;
+	color: #000000;
 	font-size: 12px;
 }
 
 #bottom-footer .copyright-text a {
-	color: #bcbaba;
+	color: #000000;
 }
 
 #bottom-footer .copyright-text a:hover {
-	color: #30afb8;
+	color: #f25d3a;
 }
 
 #bottom-footer .footer-menu {
