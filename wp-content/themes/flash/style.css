@@ -1216,8 +1216,9 @@ Header
 
 #site-navigation ul li {
 	float: left;
-	padding: 23px 30px 23px 0;
+	padding: 23px 25px 23px 0;
 	position: relative;
+	text-align: center;
 }
 
 #site-navigation ul li a {
