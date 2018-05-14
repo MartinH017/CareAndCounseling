@@ -480,9 +480,9 @@ div.wpforms-container-full .wpforms-form select {
 div.wpforms-container-full .wpforms-form input[type=submit],
 div.wpforms-container-full .wpforms-form button[type=submit],
 div.wpforms-container-full .wpforms-form .wpforms-page-button {
-	background-color: #f25d3a;
+	background-color: #eee;
 	border: 1px solid #ddd;
-	color: #ffffff;
+	color: #333;
 	font-size: 1em;
 	padding: 10px 15px;
 }
